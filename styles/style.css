@@ -87,9 +87,8 @@ body{
     font-family: var(--fonte-secundaria);
     transition: .5s;
 }
-.apresentacao__links__link:hover{
+.apresentacao__links__navegacao:hover{
     background-color: var(--cor-hover);
-    transition: 0.05s;
 }
 .apresentacao__imagem{
     width: 50%;
